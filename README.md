@@ -27,3 +27,19 @@ Open your Minetest games directory in the terminal, then use the command:
 git clone https://github.com/MonoTheProtogen/Monos-Cave-Game
 ```
 
+# Roadmap
+
+- ~~Basic Functions~~ (Copied default Minetest mods)
+- More Blocks
+- Mobs
+- Structures
+- Biomes
+- Better GUI
+- Player Skin Changing
+- Better Player Animations
+- More Items
+
+More stuff appearing... later.
+
+> Sidenote: features will be developed in no particular order
+
