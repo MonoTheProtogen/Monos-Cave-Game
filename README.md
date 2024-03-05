@@ -30,6 +30,7 @@ git clone https://github.com/MonoTheProtogen/Monos-Cave-Game
 # Roadmap
 
 - ~~Basic Functions~~ (Copied default Minetest mods)
+- Custom Textures
 - More Blocks
 - Mobs
 - Structures
