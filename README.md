@@ -10,7 +10,7 @@ Currently very work in progress, still trying to figure out Minetest API.
 
 - Any platform
 
-Go to the releases tab, download the newest release and unzip it into your Minetest games directory.
+Go to the [releases tab](https://github.com/MonoTheProtogen/Monos-Cave-Game/releases), download the newest release and unzip it into your Minetest games directory.
 
 After this the game should show up in Minetest.
 
