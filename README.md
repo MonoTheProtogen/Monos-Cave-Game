@@ -47,7 +47,7 @@ After this the game should show up in Minetest.
 
 # Roadmap
 
-- ~~Basic Functions~~ (Copied default Minetest mods)
+- ~~Basic Functions~~ (Copied default Minetest Game mods)
 - Custom Textures
 - More Blocks
 - Mobs
