@@ -8,7 +8,7 @@ Currently very work in progress, still trying to figure out Minetest API
 -Any platform
 Go to the releases tab, download the newest release and unzip it into your Minetest games directory.
 
-**Lates Releases (possibly unstable)*"
+**Lates Releases (possibly unstable)**
 -Any platform
 Download the source code as a zip and unzip it in your Minetest games directory.
 
