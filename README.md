@@ -1,7 +1,7 @@
 # Mono's Cave Game
 ![header](https://github.com/MonoTheProtogen/Monos-Cave-Game/assets/64149624/c67028b5-f99a-43b1-a3f2-6e432189823d)
 
-My own version of Minecraft, made on Minetest, written completely from scratch.
+My own version of Minecraft, made on Minetest, written completely from scratch, using Minetest Game as a base.
 Currently very work in progress, still trying to figure out Minetest API.
 
 
