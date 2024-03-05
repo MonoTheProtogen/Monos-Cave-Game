@@ -1,6 +1,6 @@
 # Mono's Cave Game
 My own version of Minecraft, made on Minetest, written completely from scratch.
-Currently very work in progress, still trying to figure out Minetest API
+Currently very work in progress, still trying to figure out Minetest API.
 
 # Installation
 
