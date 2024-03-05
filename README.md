@@ -15,5 +15,5 @@ Download the source code as a zip and unzip it in your Minetest games directory.
 -Linux/Windows(with Git installed) (maybe also Mac idk I've never used it)
 Open your Minetest games directory in the terminal, then use the command:
 ```
-git clone 
+git clone https://github.com/MonoTheProtogen/Monos-Cave-Game
 ```
