@@ -49,3 +49,7 @@ More stuff appearing... later.
 Current Development Status: `sparse`
 
 > New additions and stuff will sparsely appear as I don't have that much free time currently and can't actively develop the game
+
+# Screenshots
+
+none exist yet :3 
