@@ -43,3 +43,8 @@ More stuff appearing... later.
 
 > Sidenote: features will be developed in no particular order
 
+# Development Status
+
+Current Development Status: `sparse`
+
+> New additions and stuff will sparsely appear as I don't have that much free time currently and can't actively develop the game
