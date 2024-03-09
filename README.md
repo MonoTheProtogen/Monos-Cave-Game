@@ -19,7 +19,7 @@ After this the game should show up in Minetest.
 
 ## Latest Versions (possibly unstable)
 
-Go to the [releases tab](https://github.com/MonoTheProtogen/Monos-Cave-Game/releases), download the latest **pre-release** and unzip it into your Minetest `games` directory.
+Go to the [releases tab](https://github.com/MonoTheProtogen/Monos-Cave-Game/releases), download the latest **pre-release** package and unzip it into your Minetest `games` directory.
 
 After this the game should show up in Minetest.
 
