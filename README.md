@@ -24,7 +24,7 @@ Go to the [releases tab](https://github.com/MonoTheProtogen/Monos-Cave-Game/rele
 After this the game should show up in Minetest.
 
 
-## Latest Dev Versions (90% likely to be very unstable)
+## Latest Dev Versions (90% likely to be very unstable as well as possible inclusion of continuity errors)
 
 ### Any platform
 
