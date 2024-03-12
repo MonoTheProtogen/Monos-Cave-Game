@@ -64,9 +64,9 @@ More stuff appearing... later.
 
 # Development Status
 
-Current Development Status: `sparse`
+Current Development Status: `halted`
 
-> New additions and stuff will sparsely appear as I don't have that much free time currently and can't actively develop the game
+> I neither have the time nor want to continue this currently.
 
 # Screenshots
 
