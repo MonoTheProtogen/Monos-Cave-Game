@@ -64,9 +64,9 @@ More stuff appearing... later.
 
 # Development Status
 
-Current Development Status: `halted`
+Current Development Status: `active but slow`
 
-> I neither have the time nor want to continue this currently.
+> Currently busy with other things but I'm trying to slowly add things to this so that it doesn't die in the early stages
 
 # Screenshots
 
